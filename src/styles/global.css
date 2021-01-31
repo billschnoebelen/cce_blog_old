@@ -1,0 +1,49 @@
+/* https://colorpalettes.net/color-palette-2664/
+dark green #4a6c2f  hsl(93, 39%, 30%)
+light green #7cad3e  hsl(86, 47%, 46%) [ugly]
+light blue/green #cfdfda hsl(161, 20%, 84%)
+dark blue #236477 hsl(194, 55%, 30%)
+very dark blue #173042 hsl(205, 48%, 17%) */
+
+/* https://websitesetup.org/website-color-schemes/
+--Primary colors go to the “hot spots” on your web page. You should use these bold,
+  vibrant colors to attract users’ attention and prompt them to take action. CTA
+  buttons, headlines, benefits icons, download forms, and other important information
+  should be highlighted using primary colors.
+  --branding-color: hsl(93, 39%, 30%)
+  --cta-color: hsl(194, 55%, 30%)
+--Secondary colors are used to highlight the less important information on the
+  website, such as secondary buttons, subheadings, active menu items, backgrounds, or
+  supporting content like FAQs and testimonials.
+  --secondary-color: hsl(161, 20%, 84%)
+--Neutral colors will most likely be used for text and background but could come in
+  handy in particularly colorful sections of the site, just to help tone it down and
+  refocus the eye.
+  --neutral-color-light: hsl(180, 16.7%, 97.6%);
+  --neutral-color-dark: hsl(205, 48%, 17%);
+  */
+
+html {
+  /* cta */
+  --branding-color: hsl(93, 39%, 30%);
+  --cta-color: hsl(194, 55%, 30%);
+  /* secondary */
+  --secondary-color: hsl(161, 20%, 84%);
+  --btn-color-activated: hsl(161, 20%, 54%);
+  /* neutral */
+  --neutral-color-light: hsl(161, 20%, 94%);
+  --neutral-color-dark: hsl(205, 48%, 17%);
+  /* disabled */
+  --disabled-color: hsl(0, 0%, 67%);
+
+  /* --nav-height: 54px;
+  --panel-height: 41px; */
+}
+
+html {
+  background-color: var(--neutral-color-light);
+}
+
+a {
+  color: var(--cta-color);
+}

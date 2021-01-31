@@ -1,0 +1,38 @@
+https://www.youtube.com/watch?v=xJVHWhO9bJY
+https://www.youtube.com/watch?v=T5a5nmbV_g4 (did not use OktaDev, but it would be good for a private portfolio)
+
+
+
+1. install node (use latest LTS version ), and VScode
+https://www.youtube.com/watch?v=4UYe5aMHXfs (windows install starts at 3 minutes)
+
+2. install gatsby blog
+From here: https://www.gatsbyjs.com/docs/starters/ -there are several versions
+gatsby new cce_blog gatsbyjs/gatsby-starter-blog
+
+3. test locally
+npm start
+
+go to http://localhost:8000/
+
+4. Clean it up
+replace logo, favicon, profile-pic.jpg
+
+5. gatsby-config.js and package.json
+
+6. Make css file
+under src new file styles/global.css
+
+7. Gatsby image 
+npm install gatsby-image
+npm install gatsby-transformer-sharp gatsby-plugin-sharp
+
+8. add feature images
+https://codebushi.com/gatsby-featured-images/
+
+9. Make blog pic with aspect ratio 1/1
+
+
+
+
+
