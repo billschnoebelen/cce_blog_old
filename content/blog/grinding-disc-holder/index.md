@@ -23,11 +23,11 @@ I tacked it all up, but it did not work.
 
 Forgot to account for the slop in the hole.
 
-<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/11cff257f9c4d67cc7cef7bf" target="_blank">![too much clearance](./pic4.jpg)</a>
+<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/970b724384e264655c697fd3" target="_blank">![too much clearance](./pic4.jpg)</a>
 
 So I cut them off, moved them up a bit and rewelded.
 
-<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/970b724384e264655c697fd3" target="_blank">![rewelded](./pic5.jpg)</a>
+<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/11cff257f9c4d67cc7cef7bf" target="_blank">![rewelded](./pic5.jpg)</a>
 
 Then I realized I needed something to hold the wrenches. First thought of welding on a small rod, but you would have to take all the wrenches off to get to the inner wrench. No bueno.
 
@@ -35,7 +35,7 @@ Then I realized I needed something to hold the wrenches. First thought of weldin
 
 So more scrap tubing to the rescue!
 
-<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/9b42092096f8cf31858c2c53" target="_blank">![tube angle grinder wrench holder](./pic7.jpg)</a>
+<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/8ec07d9cdb2848e539e77263" target="_blank">![tube angle grinder wrench holder](./pic7.jpg)</a>
 
 It warped due to all the welds in the center so I put it in the press to straighten it out.
 
