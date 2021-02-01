@@ -43,7 +43,7 @@ It warped due to all the welds in the center so I put it in the press to straigh
 
 I sprayed some old rattle can paint on it. I believe the paint was left over from making Festivus Poles for Santacon. We made them out of cardboard McmasterCarr tubes so they would be disposable.
 
-<a href="https://cad.onshape.com/documents/051d3a49fa876088d094ccb1/w/1890f058e50a78405dbb7900/e/d4cdbd31d675dc29829690ed" target="_blank">![paint](./pic9.jpg)</a>
+![paint](./pic9.jpg)
 
 I milled up some slider feet so as not to scratch the paint job when I spin it. It probably would have helped if I let the paint dry, but that never happens. Once setup on milling using a cutoff saw.
 
