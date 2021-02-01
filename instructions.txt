@@ -32,6 +32,8 @@ https://codebushi.com/gatsby-featured-images/
 
 9. Make blog pic with aspect ratio 1/1
 
+10. Download the other pics to blog and set with to 630 pixels using paint.
+
 
 
 
