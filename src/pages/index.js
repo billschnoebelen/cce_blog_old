@@ -5,7 +5,8 @@ import Bio from "../components/bio"
 import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import "@google/model-viewer/dist/model-viewer-legacy" //https://github.com/google/model-viewer/pull/1437
+import "@google/model-viewer
+//import "@google/model-viewer/dist/model-viewer-legacy" //https://github.com/google/model-viewer/pull/1437
 
 
 const BlogIndex = ({ data, location }) => {
