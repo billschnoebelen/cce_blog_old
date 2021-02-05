@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { Helmet } from "react-helmet";
 
 import Bio from "../components/bio"
 import Img from "gatsby-image"
@@ -7,7 +8,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 //import "@google/model-viewer
 //import "@google/model-viewer/dist/model-viewer-legacy" //https://github.com/google/model-viewer/pull/1437
-import '@google/model-viewer/dist/model-viewer'
+//import '@google/model-viewer/dist/model-viewer'
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -27,9 +28,19 @@ const BlogIndex = ({ data, location }) => {
     )
   }
 
-  return (
+  return (<div>  <Helmet>
+        <script
+          type="module"
+          src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+        />
+        <script
+          nomodule
+          src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"
+        />
+      </Helmet>
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
+       <model-viewer style={{width: "100%", height: "650px"}} skybox-image="https://circuit-case-blog.s3-us-west-1.amazonaws.com/SAND-SPIKE/umhlanga_sunrise_1k.hdr" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/SAND-SPIKE/sand-spike-GLTF-Aligned.gltf" alt="A 3D model of an welded aluminum sand spike" auto-rotate camera-controls></model-viewer>
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
@@ -73,6 +84,7 @@ const BlogIndex = ({ data, location }) => {
         })}
       </ol>
     </Layout>
+    </div>
   )
 }
 
