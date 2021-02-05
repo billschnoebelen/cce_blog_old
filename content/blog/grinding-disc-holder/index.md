@@ -45,7 +45,7 @@ I sprayed some old rattle can paint on it. I believe the paint was left over fro
 
 ![paint](./pic9.jpg)
 
-I milled up some slider feet so as not to scratch the paint job when I spin it. It probably would have helped if I let the paint dry, but that never happens. Once setup on milling using a cutoff saw.
+I milled up some slider feet so as not to scratch the paint job when I spin it. It probably would have helped if I let the paint dry, but that never happens. These were milled in one setup using a slitting saw to seperated from each part from the stock.
 
 ![machined some slidey feet](./pic10.jpg)
 
