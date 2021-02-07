@@ -25,7 +25,12 @@ const BlogPostTemplate = ({ data, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
-          <Img fixed={post.frontmatter.featuredImage.childImageSharp.fixed} />
+          <Img
+            style={{
+              borderRadius: 30,
+            }}
+            fixed={post.frontmatter.featuredImage.childImageSharp.fixed}
+          />
         </header>
         <br />
         <section
@@ -92,7 +97,7 @@ export const pageQuery = graphql`
           childImageSharp {
             # Specify the image processing specifications right in the query.
             # Makes it trivial to update as your page's design changes.
-            fixed(width: 630, height: 630) {
+            fixed(width: 630) {
               ...GatsbyImageSharpFixed
             }
           }

@@ -47,3 +47,8 @@ html {
 a {
   color: var(--cta-color);
 }
+
+.blog-img {
+  width: 630px;
+  border-radius: 30px;
+}
