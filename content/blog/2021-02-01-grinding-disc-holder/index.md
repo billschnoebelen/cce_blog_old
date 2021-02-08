@@ -5,6 +5,8 @@ description: "Built a grinding disc holder"
 featuredImage: "./preview.jpg"
 ---
 
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/Grinding-Disc-Holder/preview.jpg" alt="finished grinding disc holder"><br/>
+
 I went to Home Depot the other morning to get a grinding disc in anticipation of a project. Well I bought a grinding disc I already had, but I did not buy the one I needed!
 
 Since my last move, my grinding discs have been tucked away in several boxes in a cabinet. This made it really hard to do a general assessment or find a disc. That needed to change.
