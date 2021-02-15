@@ -5,7 +5,7 @@ description: "Designed and built a tap organizer"
 featuredImage: "./preview.jpg"
 ---
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/original-storage.jpg" alt="original Huot storage"><br/>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/link-pic.jpg" alt="machining of tool flags and tap holders"><br/>
 
 We are switching from cutting taps to <a href="https://www.youtube.com/watch?v=if_XksIesGk" target="_blank">formed taps</a>. Formed taps produce a stronger thread without chips in aluminum.
 
@@ -13,7 +13,7 @@ Our current tap storage is putting taps into drawers. The tap is kept inside the
 
 We cannot mix the form taps with the cutting taps due to different pilot holes. I took this opportunity to improve our tap storage.
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tap-drawer.jpg" alt="current draws are full of taps stored in the cases."><br/>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tap-drawer.jpg" alt="current Huot storage drawers are full of taps stored in the cases."><br/>
 
 There were several issues with our old storage. When a tap breaks, the case does not always get discarded. You think you have more taps than you actually do! Tap drills can be accidentally put in the wrong slot. This leads to constantly checking the tap drill. The drawers are usually closed so it is hard to see when taps are getting low.
 
