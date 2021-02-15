@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 // import Img from "gatsby-image" // whs 02/08/21: this does not come up as the default pic in links; add as first pic in each blog
+//whs 02/15/21: image is now passed into seo
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -16,6 +17,7 @@ const BlogPostTemplate = ({ data, location }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        image={post.frontmatter.featuredImage.childImageSharp.fixed}
       />
       <article
         className="blog-post"
