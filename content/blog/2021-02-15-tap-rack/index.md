@@ -39,9 +39,13 @@ Ideally these flags would have been anodized, letters milled, and clear coated. 
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/final-tool-flags.jpg" alt="tooling flag prototypes"><br/>
 
-I made a small tool to press in the magnets. There is a small recessed pocket for the glue clearance in the bottom of the blind hole. These must be assembled with the magnetic poles in the correct orientation so the magnets can be stacked. The magnets are pretty strong so I added the lip for removal leverage. This also differentiates a 6 from a 9.
+I made a small tool to press in the magnets. These must be assembled with the magnetic poles in the correct orientation so the magnets can be stacked. The magnets are pretty strong so I added the lip for removal leverage. This also differentiates a 6 from a 9.
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tooling-magnet.jpg" alt="tooling to install pressed magnets. there is a hole for glue clearance."><br/>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tooling-magnet.jpg" alt="tooling to install pressed magnets."><br/>
+
+There is a small recessed pocket for the glue clearance in the bottom of the blind hole. It just takes a small bit of glue to hold the magnet. Too much causes hydraulic lock.
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/glue-pocket.JPG" alt="glue clearance pocket for pressed magnets."><br/>
 
 For machining the tap holders, I machined out each tap blank size. The tap shanks will be the same size. They were then painted. The lettering, drill holes and gauge hole were all added. Then a quick shot of clear coat to add some hardness to the paint!
 
