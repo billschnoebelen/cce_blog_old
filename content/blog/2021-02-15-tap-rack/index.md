@@ -1,7 +1,7 @@
 ---
 title: Tap Rack
 date: "2021-02-15T08:04:03.284Z"
-description: "Designed and built a standard tap organizer"
+description: "Designed and built a tap organizer"
 featuredImage: "./preview.jpg"
 ---
 
