@@ -5,6 +5,8 @@ description: "Designed and built a tap organizer"
 featuredImage: "./preview.jpg"
 ---
 
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/preview.jpg" alt="tap organizer with tap drill, plug tap, bottoming tap, and thread gauge" hidden>
+
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/original-storage.jpg" alt="original Huot storage"><br/>
 
 We are switching from cutting taps to <a href="https://www.youtube.com/watch?v=if_XksIesGk" target="_blank">formed taps</a>. Formed taps produce a stronger thread without chips in aluminum.
