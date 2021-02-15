@@ -2,8 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
-// import Img from "gatsby-image" // whs 02/08/21: this does not come up as the default pic in links; add as first pic in each blog
-//whs 02/15/21: image is now passed into seo
+import Img from "gatsby-image" // whs 02/08/21: this does not come up as the default pic in links; add as first pic in each blog
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -17,7 +16,6 @@ const BlogPostTemplate = ({ data, location }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-        image={post.frontmatter.featuredImage.childImageSharp.fixed}
       />
       <article
         className="blog-post"
@@ -27,12 +25,13 @@ const BlogPostTemplate = ({ data, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
-          {/* <Img
+          <Img
             style={{
               borderRadius: 30,
+              display: "none",
             }}
             fixed={post.frontmatter.featuredImage.childImageSharp.fixed}
-          /> */}
+          />
         </header>
         <br />
         <section

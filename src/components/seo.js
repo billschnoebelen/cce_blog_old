@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-const SEO = ({ description, lang, meta, title, image }) => {
+const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -49,13 +49,6 @@ const SEO = ({ description, lang, meta, title, image }) => {
         {
           property: `og:description`,
           content: metaDescription,
-        },
-        {
-          property: `og:image`,
-          // You should ideally replace the hardcoded URL below with a value you set
-          // in your gatsby-config.js file.  And import all shared site metadata into
-          // this component with the useStaticQuery hook.
-          content: image,
         },
         {
           property: `og:type`,
