@@ -17,9 +17,7 @@ We cannot mix the form taps with the cutting taps due to different pilot holes. 
 
 There were several issues with our old storage. When a tap breaks, the case does not always get discarded. You think you have more taps than you actually do! Tap drills can be accidentally put in the wrong slot. This leads to constantly checking the tap drill. The drawers are usually closed so it is hard to see when taps are getting low.
 
-If you go into the cad you can see I iterated thru several designs.
-
-My <a href="https://cad.onshape.com/documents/b82ac90fe6855c8afe667c3f/v/2c478eaceaea9a9e4ebf46c7/e/1f08476f395f84bc891c5749" target="_blank">first design</a> was too 'hard coded'. I didn't really like it. What if I had to add a tap size? I would have to redo the whole thing.
+I iterated thru several designs. My <a href="https://cad.onshape.com/documents/b82ac90fe6855c8afe667c3f/v/2c478eaceaea9a9e4ebf46c7/e/1f08476f395f84bc891c5749" target="_blank">first design</a> was too 'hard coded'. I didn't really like it. What if I had to add a tap size? I would have to redo the whole thing.
 
 <a href="https://cad.onshape.com/documents/b82ac90fe6855c8afe667c3f/v/2c478eaceaea9a9e4ebf46c7/e/1f08476f395f84bc891c5749" target="_blank"><img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/first-tap-rack-design.JPG" alt="first tap rack design. this did not allow for adding additional tap sizes."></a><br/>
 
