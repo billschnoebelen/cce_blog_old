@@ -11,11 +11,11 @@ We are switching over to <a href="https://www.youtube.com/watch?v=if_XksIesGk" t
 
 Our current tap storage is putting taps into drawers. The tap is kept inside the case and stored with the tap bit and tap gauge in the same drawer slot.
 
-We cannot mix the form taps with the cutting taps. So I am took this opportunity to improve our tap storage.
+We cannot mix the form taps with the cutting taps. So I took this opportunity to improve our tap storage.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tap-drawer.jpg" alt="current draws are full of taps stored in the cases."><br/>
 
-There were several issues with our old storage. When a tap get broken, the case does not always get thrown away. You think you have more taps than you actually do! Tap drills can be accidentally put in the wrong slot. This leads to constantly checking the tap drill. The drawers are usually closed so it is hard to see when taps are getting low.
+There were several issues with our old storage. When a tap breaks, the case does not always get discarded. You think you have more taps than you actually do! Tap drills can be accidentally put in the wrong slot. This leads to constantly checking the tap drill. The drawers are usually closed so it is hard to see when taps are getting low.
 
 If you go into the cad you can see I iterated thru several designs.
 
@@ -39,11 +39,11 @@ Ideally these flags would have been anodized, letters milled, and clear coated. 
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/final-tool-flags.jpg" alt="tooling flag prototypes"><br/>
 
-I made a small tool to press in the magnets. There is a small recessed pocket for the glue clearance in the bottom of the blind hole. These must be assembled with the poles in the correct orientation so the magnets can be stacked. The magnets are pretty strong to I added the lip for removal leverage. This also differentiates a 6 from a 9.
+I made a small tool to press in the magnets. There is a small recessed pocket for the glue clearance in the bottom of the blind hole. These must be assembled with the magnetic poles in the correct orientation so the magnets can be stacked. The magnets are pretty strong so I added the lip for removal leverage. This also differentiates a 6 from a 9.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tooling-magnet.jpg" alt="tooling to install pressed magnets. there is a hole for glue clearance."><br/>
 
-For the tap holders, I machined out each tap blank size. The tap shanks will be the same size. I then painted them. I then added the lettering, drill holes and gauge hole.
+For machining the tap holders, I machined out each tap blank size. The tap shanks will be the same size. They were then painted. The lettering, drill holes and gauge hole were all added. Then a quick shot of clear coat to add some hardness to the paint!
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tap-blanks.jpg" alt="machining blanks for tap holder. then machined lettering and drill holes."><br/>
 
