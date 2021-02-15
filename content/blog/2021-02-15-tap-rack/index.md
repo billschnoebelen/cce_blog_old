@@ -5,13 +5,13 @@ description: "Designed and built a standard tap organizer"
 featuredImage: "./preview.jpg"
 ---
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/preview.jpg" alt="tap organizer with tap drill, plug tap, bottoming tap, and thread gauge"><br/>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/original-storage.jpg" alt="original Huot storage"><br/>
 
-We are switching over to <a href="https://www.youtube.com/watch?v=if_XksIesGk" target="_blank">formed taps</a> for our standard taps. Formed taps produce a stronger thread without chips in aluminum.
+We are switching from cutting taps to <a href="https://www.youtube.com/watch?v=if_XksIesGk" target="_blank">formed taps</a>. Formed taps produce a stronger thread without chips in aluminum.
 
 Our current tap storage is putting taps into drawers. The tap is kept inside the case and stored with the tap bit and tap gauge in the same drawer slot.
 
-We cannot mix the form taps with the cutting taps. So I took this opportunity to improve our tap storage.
+We cannot mix the form taps with the cutting taps due to different pilot holes. I took this opportunity to improve our tap storage.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tap-drawer.jpg" alt="current draws are full of taps stored in the cases."><br/>
 
@@ -51,8 +51,14 @@ For machining the tap holders, I machined out each tap blank size. The tap shank
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/tap-blanks.jpg" alt="machining blanks for tap holder. then machined lettering and drill holes."><br/>
 
-These will store 1X thread gauge, 3X drills, 3X plug taps, and 3X bottom taps per holder. Send work! I need to fill them up!
+These will store 1X thread gauge, 3X drills, 3X plug taps, and 3X bottom taps per holder. As you can see it is very easy to take inventory and see where a tap size is short on tool. Now I just need to fill them up with tools!<br/>
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/details-tap-holder.jpg" alt="tap holders will store 1X thread gauge, 3X drills, 3X plug taps, and 3X bottom taps per holder"><br/>
+
+When I started researching tap storage on the internet. A comment in a forum was something to the effect: "Don't overthink it. I've stored my taps in my wife's old tupperware for 20 years."
+
+We'll I've thought about it pretty dam hard . This takes a lot of time off our tap change over time! It also makes the process more reliable.
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/preview.jpg" alt="tap organizer with tap drill, plug tap, bottoming tap, and thread gauge"><br/>
 
 Thanks for looking! <a href="https://cad.onshape.com/documents/b82ac90fe6855c8afe667c3f/w/d4ffc7331d96f408225cc040/e/1f08476f395f84bc891c5749" target="_blank">There are more pics, CAD, and CAM here...</a>
