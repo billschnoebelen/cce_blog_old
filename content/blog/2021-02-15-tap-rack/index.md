@@ -55,7 +55,7 @@ These will store 1X thread gauge, 3X drills, 3X plug taps, and 3X bottom taps pe
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/details-tap-holder.jpg" alt="tap holders will store 1X thread gauge, 3X drills, 3X plug taps, and 3X bottom taps per holder"><br/>
 
-When I started researching tap storage on the internet. A comment in a forum was something to the effect: "Don't overthink it. I've stored my taps in my wife's old tupperware for 20 years."
+When I started researching tap storage on the internet. A comment in a forum was something to the effect: _"Don't overthink it. I've stored my taps in my wife's old tupperware for 20 years."_
 
 We'll I've thought about it pretty dam hard . This takes a lot of time off our tap change over time! It also makes the process more reliable.
 
