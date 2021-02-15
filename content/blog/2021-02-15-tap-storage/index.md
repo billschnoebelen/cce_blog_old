@@ -1,7 +1,7 @@
 ---
-title: Tap Rack & Magnetic Tool Flags
+title: Tap Storage & Magnetic Tool Flags
 date: "2021-02-15T08:04:03.284Z"
-description: "Designed and built a tap organizer and magnetic tool flags"
+description: "Designed and built a tap storage organizer and magnetic tool flags"
 featuredImage: "./preview.jpg"
 ---
 
