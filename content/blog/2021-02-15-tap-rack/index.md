@@ -1,7 +1,7 @@
 ---
-title: Tap Rack
+title: Tap Rack & Magnetic Tool Flags
 date: "2021-02-15T08:04:03.284Z"
-description: "Designed and built a tap organizer"
+description: "Designed and built a tap organizer and magnetic tool flags"
 featuredImage: "./preview.jpg"
 ---
 
@@ -55,7 +55,7 @@ These will store 1X thread gauge, 3X drills, 3X plug taps, and 3X bottom taps pe
 
 When I started researching tap storage on the internet. A comment in a forum was something to the effect: _"Don't overthink it. I've stored my taps in my wife's old tupperware for 20 years."_
 
-We'll I've thought about it pretty dam hard . This takes a lot of time off our tap change over time! It also makes the process more reliable.
+We'll I've thought about it pretty dam hard . This takes a lot of time off our previous tap change over time! It also helps getting the taps and drill back home reliably! This is a decent size chunk of making low volume prototype parts.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/preview.jpg" alt="tap organizer with tap drill, plug tap, bottoming tap, and thread gauge"><br/>
 
