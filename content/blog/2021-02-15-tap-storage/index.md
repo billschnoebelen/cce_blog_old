@@ -3,7 +3,6 @@ title: Tap Storage & Magnetic Tool Flags
 date: "2021-02-15T08:04:03.284Z"
 description: "Designed and built a tap storage organizer and magnetic tool flags"
 featuredImage: "./preview.jpg"
-ogBasePath: "https://cce-blog.netlify.app/2021-02-15-tap-storage"
 ogImage: "./preview.jpg"
 ---
 

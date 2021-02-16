@@ -26,7 +26,7 @@ const BlogPostTemplate = ({ data, location }) => {
   // const href = location.href.replace(/\/$/, "") || {}
   // const { href } = location
   const ogImagePath = ogBasePath && ogImage && ogImage.childImageSharp.fixed.src
-  const ogImageFullPath = `${ogBasePath}${ogImagePath}`
+  const ogImageFullPath = `https://cce-blog.netlify.app${ogImagePath}`
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -124,7 +124,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        ogBasePath
         ogImage {
           childImageSharp {
             fixed {

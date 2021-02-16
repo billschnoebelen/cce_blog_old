@@ -3,7 +3,6 @@ title: Sand Spike Rod Holder
 date: "2021-02-08T08:04:03.284Z"
 description: "Made a sand spike rod holder"
 featuredImage: "./preview.jpg"
-ogBasePath: "https://cce-blog.netlify.app/2021-02-08-SandSpike"
 ogImage: "./preview.jpg"
 ---
 

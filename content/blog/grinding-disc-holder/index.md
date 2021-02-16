@@ -3,7 +3,6 @@ title: Grinding Disc Holder
 date: "2021-02-01T08:04:03.284Z"
 description: "Built a grinding disc holder"
 featuredImage: "./preview.jpg"
-ogBasePath: "https://cce-blog.netlify.app/grinding-disc-holder"
 ogImage: "./preview.jpg"
 ---
 
