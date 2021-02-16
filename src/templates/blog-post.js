@@ -11,7 +11,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const { ogImage } = post.frontmatter
-  const { ogBasePath } = post.frontmatter
+  // const { ogBasePath } = post.frontmatter
 
   // const href = () => {
   //   const url =
@@ -25,16 +25,16 @@ const BlogPostTemplate = ({ data, location }) => {
   // const href = () => (location ? location.href.replace(/\/$/, "") : {})
   // const href = location.href.replace(/\/$/, "") || {}
   // const { href } = location
-  const ogImagePath = ogBasePath && ogImage && ogImage.childImageSharp.fixed.src
+  const ogImagePath = ogImage && ogImage.childImageSharp.fixed.src
   const ogImageFullPath = `https://cce-blog.netlify.app${ogImagePath}`
 
   return (
     <Layout location={location} title={siteTitle}>
       {/* {console.log(`title: ${post.frontmatter.title}`)}
       {console.log(`description: ${post.frontmatter.description}`)} */}
-      {console.log(ogImage.toString)}
-      {console.log(typeof ogImage.toString)}
-      {console.log(`ogBasePath: ${ogBasePath}`)}
+      {/* {console.log(ogImage.toString)} */}
+      {/* {console.log(typeof ogImage.toString)} */}
+      {/* {console.log(`ogBasePath: ${ogBasePath}`)} */}
       {console.log(`ogImagePath: ${ogImagePath}`)}
       {console.log(`ogImageFullPath: ${ogImageFullPath}`)}
       {/* {console.log(location)} */}
