@@ -34,8 +34,7 @@ const SEO = ({ description, lang, meta, title, image, blogPath }) => {
   const defaultTitle = site.siteMetadata?.title
   // const ogImageUrl =
   //   site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
-  const ogImageUrl =
-    blogPath.replace(/\/$/, "") + (image || defaultOpenGraphImage)
+  const ogImageUrl = blogPath + (image || defaultOpenGraphImage)
 
   return (
     <Helmet
