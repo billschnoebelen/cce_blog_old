@@ -11,7 +11,7 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import defaultOpenGraphImage from "../../content/assets/CCElogo.png"
 
-const SEO = ({ description, lang, meta, title, image }) => {
+const SEO = ({ description, lang, meta, title, image, blogPath }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -32,8 +32,9 @@ const SEO = ({ description, lang, meta, title, image }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
-  const ogImageUrl =
-    site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
+  // const ogImageUrl =
+  //   site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
+  const ogImageUrl = blogPath + (image || defaultOpenGraphImage)
 
   return (
     <Helmet

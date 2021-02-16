@@ -11,14 +11,26 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const { ogimage } = post.frontmatter
-  const ogImagePath = ogimage && ogimage.childImageSharp.fixed.src
+  const href = location.href.replace(/\/$/, "")
+  // const { href } = location
+  const ogImagePath = href && ogimage && ogimage.childImageSharp.fixed.src
 
   return (
     <Layout location={location} title={siteTitle}>
+      {/* {console.log(`title: ${post.frontmatter.title}`)}
+      {console.log(`description: ${post.frontmatter.description}`)} */}
+      {console.log(ogimage)}
+      {console.log(`ogImagePath: ${ogImagePath}`)}
+      {/* {console.log(location)} */}
+      {console.log(`href: ${href}`)}
+      {/* {console.log(`location href: ${location.href}`)} */}
+      {/* {console.log(post.frontmatter)} */}
+      {/* {console.log(post)} */}
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
         image={ogImagePath}
+        blogPath={href}
       />
       <article
         className="blog-post"
