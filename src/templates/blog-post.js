@@ -10,12 +10,15 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const { ogimage } = post.frontmatter
+  const ogImagePath = ogimage && ogimage.childImageSharp.fixed.src
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        image={ogImagePath}
       />
       <article
         className="blog-post"
@@ -94,6 +97,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        ogimage {
+          childImageSharp {
+            fixed {
+              src
+            }
+          }
+        }
         featuredImage {
           childImageSharp {
             # Specify the image processing specifications right in the query.

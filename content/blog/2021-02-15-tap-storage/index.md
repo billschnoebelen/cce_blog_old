@@ -3,6 +3,7 @@ title: Tap Storage & Magnetic Tool Flags
 date: "2021-02-15T08:04:03.284Z"
 description: "Designed and built a tap storage organizer and magnetic tool flags"
 featuredImage: "./preview.jpg"
+ogimage: "./preview.jpg"
 ---
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/tap-rack/link-pic.jpg" alt="machining of tool flags and tap holders"><br/>
