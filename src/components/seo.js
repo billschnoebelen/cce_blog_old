@@ -34,7 +34,15 @@ const SEO = ({ description, lang, meta, title, image, blogPath }) => {
   const defaultTitle = site.siteMetadata?.title
   // const ogImageUrl =
   //   site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
-  const ogImageUrl = blogPath() + (image || defaultOpenGraphImage)
+  const href = () => {
+    const url =
+      typeof window !== "undefined"
+        ? window.location.href.replace(/\/$/, "")
+        : ""
+
+    return url
+  }
+  const ogImageUrl = href() + (image || defaultOpenGraphImage)
 
   return (
     <Helmet
@@ -91,6 +99,7 @@ const SEO = ({ description, lang, meta, title, image, blogPath }) => {
       ].concat(meta)}
     >
       {console.log(`ogImageUrl: ${ogImageUrl}`)}{" "}
+      {console.log(`href: ${href()}`)}{" "}
     </Helmet>
   )
 }
