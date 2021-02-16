@@ -24,7 +24,7 @@ const BlogPostTemplate = ({ data, location }) => {
   // const href = () => (location ? location.href.replace(/\/$/, "") : {})
   // const href = location.href.replace(/\/$/, "") || {}
   // const { href } = location
-  const ogImagePath = href() && ogimage && ogimage.childImageSharp.fixed.src
+  const ogImagePath = ogimage && ogimage.childImageSharp.fixed.src
 
   return (
     <Layout location={location} title={siteTitle}>
