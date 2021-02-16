@@ -11,10 +11,20 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const { ogimage } = post.frontmatter
-  const href = () => (location ? location.href.replace(/\/$/, "") : {})
+
+  const href = () => {
+    const url =
+      typeof window !== "undefined"
+        ? window.location.href.replace(/\/$/, "")
+        : ""
+
+    return url
+  }
+
+  // const href = () => (location ? location.href.replace(/\/$/, "") : {})
   // const href = location.href.replace(/\/$/, "") || {}
   // const { href } = location
-  const ogImagePath = href && ogimage && ogimage.childImageSharp.fixed.src
+  const ogImagePath = href() && ogimage && ogimage.childImageSharp.fixed.src
 
   return (
     <Layout location={location} title={siteTitle}>
