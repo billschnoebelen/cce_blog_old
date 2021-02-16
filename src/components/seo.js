@@ -6,12 +6,17 @@
  */
 
 import React from "react"
+// import { Location } from "@reach/router"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-import defaultOpenGraphImage from "../../content/assets/CCElogo.png"
+// import defaultOpenGraphImage from "../../content/assets/CCElogo.png"
 
-const SEO = ({ description, lang, meta, title, image, blogPath }) => {
+// const MyComponent = () => (
+//   <Location>{({ location }) => `"the location" ${location}`}</Location>
+// )
+
+const SEO = ({ description, lang, meta, title, image }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -34,15 +39,16 @@ const SEO = ({ description, lang, meta, title, image, blogPath }) => {
   const defaultTitle = site.siteMetadata?.title
   // const ogImageUrl =
   //   site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
-  const href = () => {
-    const url =
-      typeof window !== "undefined"
-        ? window.location.href.replace(/\/$/, "")
-        : ""
+  // const href = () => {
+  //   const url =
+  //     typeof window !== "undefined"
+  //       ? window.location.href.replace(/\/$/, "")
+  //       : ""
 
-    return url
-  }
-  const ogImageUrl = href() + (image || defaultOpenGraphImage)
+  //   return url
+  // }
+  // const href = MyComponent()
+  // const ogImageUrl = MyComponent() + (image || defaultOpenGraphImage)
 
   return (
     <Helmet
@@ -66,15 +72,15 @@ const SEO = ({ description, lang, meta, title, image, blogPath }) => {
         },
         {
           property: `og:image`,
-          content: ogImageUrl,
+          content: image,
         },
         {
           property: `twitter:image`,
-          content: ogImageUrl,
+          content: image,
         },
         {
           property: `image`,
-          content: ogImageUrl,
+          content: image,
         },
         {
           property: `og:type`,
@@ -98,8 +104,8 @@ const SEO = ({ description, lang, meta, title, image, blogPath }) => {
         },
       ].concat(meta)}
     >
-      {console.log(`ogImageUrl: ${ogImageUrl}`)}{" "}
-      {console.log(`href: ${href()}`)}{" "}
+      {/* {console.log(`ogImageUrl: ${ogImageUrl}`)}{" "}
+      {console.log(`href: ${href.toString}`)}{" "} */}
     </Helmet>
   )
 }
