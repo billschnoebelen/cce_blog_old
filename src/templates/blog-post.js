@@ -23,7 +23,7 @@ const BlogPostTemplate = ({ data, location }) => {
       {console.log(ogimage)}
       {console.log(`ogImagePath: ${ogImagePath}`)}
       {/* {console.log(location)} */}
-      {console.log(`href: ${href}`)}
+      {console.log(`href: ${href()}`)}
       {/* {console.log(`location href: ${location.href}`)} */}
       {/* {console.log(post.frontmatter)} */}
       {/* {console.log(post)} */}
