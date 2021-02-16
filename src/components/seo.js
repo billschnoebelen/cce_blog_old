@@ -6,15 +6,9 @@
  */
 
 import React from "react"
-// import { Location } from "@reach/router"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-// import defaultOpenGraphImage from "../../content/assets/CCElogo.png"
-
-// const MyComponent = () => (
-//   <Location>{({ location }) => `"the location" ${location}`}</Location>
-// )
 
 const SEO = ({ description, lang, meta, title, image }) => {
   const { site } = useStaticQuery(
@@ -37,18 +31,6 @@ const SEO = ({ description, lang, meta, title, image }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
-  // const ogImageUrl =
-  //   site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
-  // const href = () => {
-  //   const url =
-  //     typeof window !== "undefined"
-  //       ? window.location.href.replace(/\/$/, "")
-  //       : ""
-
-  //   return url
-  // }
-  // const href = MyComponent()
-  // const ogImageUrl = MyComponent() + (image || defaultOpenGraphImage)
 
   return (
     <Helmet
@@ -103,10 +85,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
           content: metaDescription,
         },
       ].concat(meta)}
-    >
-      {/* {console.log(`ogImageUrl: ${ogImageUrl}`)}{" "}
-      {console.log(`href: ${href.toString}`)}{" "} */}
-    </Helmet>
+    ></Helmet>
   )
 }
 

@@ -3,7 +3,6 @@ title: Sand Spike Rod Holder
 date: "2021-02-08T08:04:03.284Z"
 description: "Made a sand spike rod holder"
 featuredImage: "./preview.jpg"
-ogImage: "./preview.jpg"
 ---
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/SAND-SPIKE/preview.jpg" alt="sand spike in deep water"><br/>
