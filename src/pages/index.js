@@ -10,11 +10,12 @@ import SEO from "../components/seo"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
+  const ogImageFullPath = `https://circuit-case-blog.s3-us-west-1.amazonaws.com/main-og-image.jpg`
 
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title="All posts" />
+        <SEO title="All posts" image={ogImageFullPath} />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
