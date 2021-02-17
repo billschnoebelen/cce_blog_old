@@ -15,7 +15,7 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title="All posts" image={ogImageFullPath} />
+        <SEO title="All posts" />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
@@ -40,7 +40,7 @@ const BlogIndex = ({ data, location }) => {
         />
       </Helmet>
       <Layout location={location} title={siteTitle}>
-        <SEO title="All posts" />
+        <SEO title="All posts" image={ogImageFullPath} />
         {/* <model-viewer style={{width: "100%", height: "650px"}} skybox-image="https://circuit-case-blog.s3-us-west-1.amazonaws.com/SAND-SPIKE/umhlanga_sunrise_1k.hdr" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/SAND-SPIKE/sand-spike-GLTF-Aligned.gltf" alt="A 3D model of an welded aluminum sand spike" auto-rotate camera-controls></model-viewer> */}
         <Bio />
         <ol style={{ listStyle: `none` }}>
