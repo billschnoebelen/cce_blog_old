@@ -3,7 +3,7 @@ module.exports = {
     title: `Circuit Case Engineering`,
     author: {
       name: `Bill Schnoebelen`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who designs and builds useful things in San Francisco.`,
     },
     description: `CCE Blog`,
     siteUrl: `https://circuitcase.com/`,

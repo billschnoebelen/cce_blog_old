@@ -10,7 +10,7 @@ I setup the Brother Speedio mill table with 3 vises. This allows me to machine a
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/brother-speedio-s700x1-3-vise-6-side-setup.JPG" alt="mill setup for up to 8x8x3 plates machining all 6 sides on a Brother SPEEDIO
 S700X1"><br/>
 
-This caused a problem. The <a href="https://www.google.com/search?q=mill+vise+stop&tbm=isch&ved=2ahUKEwjL9e6s8PvuAhUUqZ4KHWplADAQ2-cCegQIABAA" target="_blank">current vise stops</a> were either too big on the sides or invaded my precious milling area.
+This caused a problem. The <a href="https://www.google.com/search?q=mill+vise+stop&tbm=isch&ved=2ahUKEwjL9e6s8PvuAhUUqZ4KHWplADAQ2-cCegQIABAA" target="_blank" rel="noopener noreferrer">current vise stops</a> were either too big on the sides or invaded my precious milling area.
 
 I needed something which was fast to put on and take off, required a single tool to adjust, and you don't have to bend over backwards to get at a fastener. It also had to live in a 3/4" [19mm] space between the mill vises. Simple!
 
@@ -64,4 +64,4 @@ The end effectors are pretty easy to make. Just cut off some 1/4 drill rod or cu
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/preview.jpg" alt="up close 16 Awg sheet metal thin stop"><br/>
 
-Thanks for looking! <a href="https://cad.onshape.com/documents/09de32e25b0643d725474b95/w/39d498b446f83df34d49e285/e/e3d45c397bcca88d34c7d011" target="_blank">There are more pics, CAD, and CAM here...</a>
+Thanks for looking! <a href="https://cad.onshape.com/documents/09de32e25b0643d725474b95/w/39d498b446f83df34d49e285/e/e3d45c397bcca88d34c7d011" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a>
