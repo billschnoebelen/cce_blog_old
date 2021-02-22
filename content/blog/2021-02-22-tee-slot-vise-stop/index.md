@@ -40,6 +40,10 @@ It clamps both vertically and horizontally with one fastener.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/upper-slide-stop-section.JPG" alt="vise stop upper clamp section view. clamps both vertically and horizontally with one fastener"><br/>
 
+Machined Parts
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/components-upper-slide.jpg" alt="vise stop upper clamp machined parts"><br/>
+
 It worked!
 
 <iframe width="420" height="315"
