@@ -12,21 +12,21 @@ S700X1"><br/>
 
 This caused a problem. The <a href="https://www.google.com/search?q=mill+vise+stop&tbm=isch&ved=2ahUKEwjL9e6s8PvuAhUUqZ4KHWplADAQ2-cCegQIABAA" target="_blank">current vise stops</a> were either too big on the sides or invaded my precious milling area.
 
-I needed something which was fast to put on and take off, required a single tool to adjust, and you don't have to bend over backwards to get at a fastener. It had to live in that 3/4" [19mm] space between the mill. Simple!
+I needed something which was fast to put on and take off, required a single tool to adjust, and you don't have to bend over backwards to get at a fastener. It also had to live in a 3/4" [19mm] space between the mill vises. Simple!
 
 The first thing I tried was a programmable mill stop in a tool holder. The idea was to program the stop into position and set a pause for the operator to load the part. This could be done with a macro. While it does work, the M19 (orient spindle) does not have speed control, and the Brother Speedio as the name implies is a very fast machine! This design went on the back burner.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/BT30-tool-stop.jpg" alt="bt30 tool holder vise stops"><br/>
 
-I went through several designs.
+I went through several additional designs.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/several-different-vise-stop-designs.JPG" alt="several vise stop designs"><br/>
 
 The drop in tee slot design seem promising so I broke it into two problems. Tee nut base and upper slide mechanism.
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/brother-speedio-s700x1-drop-in-tee-nut.gif" alt="Brother SPEEDIO S700X1 drop in tee nut"><br/>
-
 I borrowed some cad, modified it, and tested the tee nut base. It worked!
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/brother-speedio-s700x1-drop-in-tee-nut.gif" alt="Brother SPEEDIO S700X1 drop in tee nut"><br/>
 
 <iframe width="420" height="315"
 src="https://youtube.com/embed/Rz8K39YknvY?controls=0">
@@ -36,11 +36,11 @@ For the upper slide I wanted something to clamp both rods with one fastener. Thi
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/upper-slide-stop-exploded.JPG" alt="vise stop upper clamp exploded view."><br/>
 
-It clamps both vertically and horizontally with one fastener.
+It clamps both vertically and horizontally with one fastener!
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/upper-slide-stop-section.JPG" alt="vise stop upper clamp section view. clamps both vertically and horizontally with one fastener"><br/>
 
-Machined Parts
+I machined the parts.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/components-upper-slide.jpg" alt="vise stop upper clamp machined parts"><br/>
 
@@ -56,7 +56,7 @@ We may do several setups in a day. Making each setup faster saves a lot of time!
 src="https://youtube.com/embed/RGDaxueL3bs?controls=0">
 </iframe>
 
-They fit nicely on all 3 vises.
+They also fit nicely between all 3 vises.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-02-22-tee-slot-vise-stop/vise-stops-on-all-3-vises.jpg" alt="vise stops on all 3 vises of the Brother SPEEDIO S700X1"><br/>
 
