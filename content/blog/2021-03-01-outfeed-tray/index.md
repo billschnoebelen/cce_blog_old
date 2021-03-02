@@ -7,15 +7,17 @@ featuredImage: "./preview.jpg"
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/original.jpg" alt="My original Doall C-916M bandsaw."><br/>
 
-I bought a DRO off ebay for my Doall C-916M bandsaw. I thought I would rig something up and be done quick. I was wrong.
+I bought a DRO (digital read out) off ebay for my Doall C-916M bandsaw. This would allow me to measure cuts without a tape measure. I thought I would rig something up to install and be done quick. I was wrong.
 
 Normally if a bandsaw works, you don't think about it. Well when I started looking at it closely, it was missing several parts. In fact there was nothing original about the outfeed side of the saw.
 
-The guy before me made some hacks. I made few hacks. Each hack worked to solve a specific problem. They just didn't all work together. After looking at some pictures/video of the original saw, I decided to take it a little back to original.
+The guy before me made some hacks. I made few hacks. Each hack worked to solve a specific problem. They just didn't all work together. After looking at some pictures/video of the original saw, I decided to start by making an outfeed tray.
+
+The tray would catch parts. It would also keep coolant off the floor and DRO.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/stock-saw.jpg" alt="stock Doall C-916M bandsaw as built"><br/>
 
-I didn't really have a stock saw to measure so I took a picture from the interwebs and guesstimated. I adjusted to make it work.
+I didn't really have a stock saw to measure so I took a picture from a Google search and guesstimated.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/legs.jpg" alt="stock Doall C-916M bandsaw new legs"><br/>
 
