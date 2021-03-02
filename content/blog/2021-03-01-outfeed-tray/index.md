@@ -25,9 +25,9 @@ I didn't really have a stock saw to measure so I took a picture from a Google se
 
 I built everything in place. I used some scrap shelving as a tray placeholder. I put it in CAD to make sure the DRO has room. Make sure to unplug any electrical before welding to it!
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-no-paint.jpg" alt="Doall C-916M bandsaw outfeed tray no paint"><br/>
-
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/parts.jpg" alt="Doall C-916M bandsaw outfeed tray parts"><br/>
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-no-paint.jpg" alt="Doall C-916M bandsaw outfeed tray no paint"><br/>
 
 The tray is made from plasma cut 16 GA HRS, 1/8" angle iron, and both 1/8" & 1/4" HRS bar stock. I tried mig spot welding like they do on auto sheet metal to avoid distortion from the heat. My patience ran out and I made some larger welds. It was a bit distorted, but nothing a hammer, hydraulic press, and torch could not fix.
 
