@@ -27,10 +27,12 @@ I built everything in place. I used some scrap shelving as a tray placeholder. I
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-no-paint.jpg" alt="Doall C-916M bandsaw outfeed tray no paint"><br/>
 
-The tray is made from plasma cut 16 GA HRS, 1/8" angle iron, and both 1/8" & 1/4" HRS. I tried mig spot welding like they do on auto sheet metal. I did not have enough patience. It was somewhat distorted, but nothing a hammer, press, and torch could not fix.
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/parts.jpg" alt="Doall C-916M bandsaw outfeed tray parts"><br/>
+
+The tray is made from plasma cut 16 GA HRS, 1/8" angle iron, and both 1/8" & 1/4" HRS bar stock. I tried mig spot welding like they do on auto sheet metal to avoid distortion from the heat. My patience ran out and I made some larger welds. It was a bit distorted, but nothing a hammer, hydraulic press, and torch could not fix.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-finished.jpg" alt="Doall C-916M bandsaw outfeed tray finished"><br/>
 
-It is definitely not show quality but good enough for a bandsaw! Stay tuned for the DRO!
+It is definitely not show quality, but good enough for a bandsaw! Stay tuned for the DRO!
 
 Thanks for looking! <a href="https://cad.onshape.com/documents/0a3c7bbc668118fd755ab87e/w/4a038c6919d2e92fcc1d24bc/e/603e9c5db290b9b7e7c22192" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a> If you need some help on your project, let us know.
