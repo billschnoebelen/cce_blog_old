@@ -11,7 +11,7 @@ I bought a DRO off ebay for my Doall C-916M bandsaw. I thought I would rig somet
 
 Normally if a bandsaw works, you don't think about it. Well when I started looking at it closely, it was missing several parts. In fact there was nothing original about the outfeed side of the saw.
 
-The guy before me made some hacks. I made some couple of hacks. Each hack worked to solve a specific problem. They just didn't all work together. After looking at some pictures/video of the original saw, I decided to take it a little back to original.
+The guy before me made some hacks. I made few hacks. Each hack worked to solve a specific problem. They just didn't all work together. After looking at some pictures/video of the original saw, I decided to take it a little back to original.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/stock-saw.jpg" alt="stock Doall C-916M bandsaw as built"><br/>
 
@@ -25,7 +25,7 @@ I built everything in place. I used some scrap shelving as a tray placeholder. I
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-no-paint.jpg" alt="Doall C-916M bandsaw outfeed tray no paint"><br/>
 
-The tray is made from plasma cut 16 GA HRS, 1/8" angle iron, and both 1/8" & 1/4" HRS. I tried mig spot welding like they do on auto sheet metal. I did not have enough patience. It was somewhat distorted, but noting a hammer, press, and torch could not fix.
+The tray is made from plasma cut 16 GA HRS, 1/8" angle iron, and both 1/8" & 1/4" HRS. I tried mig spot welding like they do on auto sheet metal. I did not have enough patience. It was somewhat distorted, but nothing a hammer, press, and torch could not fix.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-finished.jpg" alt="Doall C-916M bandsaw outfeed tray finished"><br/>
 
