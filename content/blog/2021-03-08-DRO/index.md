@@ -13,11 +13,11 @@ My main issue was I was trying to apply precision to a non-precision slide. The 
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_movement.gif" alt="Layout of DRO mount using Unitstrut for Doall C-916M bandsaw."><br/>
 
-I decided to go with a piece of Unistrut for the slide mechanism. Mainly because I had a small section of Unitstrut, but it also gives me a nice base if I want to make a change.
+I decided to go with a piece of Unistrut for the slide mechanism. Mainly because I had a small section of Unistrut, but it also gives me a nice base if I want to make a change.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_coupling_mechanism.jpg" alt="DRO mount coupling mechanism for Doall C-916M bandsaw."><br/>
 
-I played around with springs for the coupling mechanism to eliminate backlash. These were too complicated. I ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. This takes up any waviness of the Unistrut. The delrin applies enough pre-load to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
+I played around with springs for the coupling mechanism between stop and DRO to eliminate backlash. These were too complicated. I ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. This takes up any waviness of the Unistrut. The delrin applies enough pre-load to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/cover_endcaps.jpg" alt="DRO mount cover end caps."><br/>
 
@@ -27,7 +27,7 @@ I played around with springs for the coupling mechanism to eliminate backlash. T
 
 The first thing I tried it on is the ends for the cover. I plasma cut the bottom off a tube and used that for end caps. Getting measurements this close took a bit of skill. You would have to understand datums and keep the stop against those datums while changing positions. It you didn't, it could end up +/-.04".
 
-The issue was that the Unistrut channel was way out of wack. The inside of the channel was not a tight tolerance. I had to leave a lot of clearance to keep it from binding. It might have helped if my piece of Unitstrut had not been physically abused in its former life. I was probably the cause of the abuse so I cannot complain.
+The issue was that the Unistrut channel was way out of wack. The inside of the channel could not be a tight tolerance otherwise it would bind. This affected the parallelism of the stop to the blade. It might have helped if my piece of Unistrut had not been physically abused in its former life. I was probably the cause of the abuse so I cannot complain.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/delrin_block.png" alt="Added a line to line delrin slide block."><br/>
 
