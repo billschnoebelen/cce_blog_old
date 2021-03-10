@@ -1,24 +1,38 @@
 ---
-title: Doall C-916M Ebay DRO
+title: Doall C-916M Outfeed Tray
 date: "2021-03-01T08:04:03.284Z"
-description: "I bought a $35 DRO for my saw off Ebay. This continues my install..."
+description: "I bought a $35 DRO for my saw off Ebay. I thought it would be an easy install..."
 featuredImage: "./preview.jpg"
 ---
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/initial_layout.jpg" alt="Initial layout of DRO mount for Doall C-916M bandsaw."><br/>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/original.jpg" alt="My original Doall C-916M bandsaw."><br/>
 
-These were the original layouts I was trying before deciding to build a new outfeed tray. I will start to layout physical items and get a picture in my head of how it will work. I will clamp scap pieces together and make pieces out of cardboard. In this particular instance, nothing worked. It all looked too cheesy. So I started over.
+I bought a DRO (digital read out) off ebay for my Doall C-916M bandsaw. This would allow me to measure cuts without a tape measure. I thought I would rig something up to install and be done quick. I was wrong.
 
-My main issue was I was trying to apply precision to a non-precision slide. The original stop used a pipe and a screw clamp. It worked no matter how many chips or how much coolant got on it. It works in a very dirty spot so wanted to keep the same robustness. I wanted to tighten it up some and make it easy to connect to the DRO.
+Normally if a bandsaw works, you don't think about them. Well when I started looking at it closely, it was missing several parts. In fact there was nothing original about the outfeed side of the saw.
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_movement.gif" alt="Layout of DRO mount using Unitstrut for Doall C-916M bandsaw."><br/>
+The guy before me made some hacks. I made few hacks. Each hack worked to solve a specific problem. They just didn't all work together. After looking at some pictures/video of the original saw, I decided to start by making an outfeed tray.
 
-I decided to go with a piece of Unistrut for the slide mechanism.
+The tray would catch parts. It would also keep coolant off the floor and DRO.
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_coupling_mechanism.jpg" alt="DRO mount coupling mechanism for Doall C-916M bandsaw."><br/>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/stock-saw.jpg" alt="stock Doall C-916M bandsaw as built"><br/>
 
-I played around with springs for the coupling mechanism to eliminate backlash, but ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. The delrin applies enough pre-load to eliminate any backlash.
+I didn't really have a stock saw to measure so I took a picture from a Google search and guesstimated.
 
-Thanks for looking! <a href="https://cad.onshape.com/documents/0a3c7bbc668118fd755ab87e/w/4a038c6919d2e92fcc1d24bc/e/603e9c5db290b9b7e7c22192" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a>
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/legs.jpg" alt="stock Doall C-916M bandsaw new legs"><br/>
 
-If you need some help on your project, let us know.
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/legs-finished.jpg" alt="stock Doall C-916M bandsaw new legs finished"><br/>
+
+I built everything in place. I used some scrap shelving as a tray placeholder. I put it in CAD to make sure the DRO has room. Make sure to unplug any electrical before welding to it!
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/parts.jpg" alt="Doall C-916M bandsaw outfeed tray parts"><br/>
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-no-paint.jpg" alt="Doall C-916M bandsaw outfeed tray no paint"><br/>
+
+The tray is made from plasma cut 16 GA HRS, 1/8" angle iron, and both 1/8" & 1/4" HRS bar stock. I tried mig spot welding like they do on auto sheet metal to avoid distortion from the heat. My patience ran out and I made some larger welds. It was a bit distorted, but nothing a hammer, hydraulic press, and torch could not fix.
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-01-outfeed-tray/tray-finished.jpg" alt="Doall C-916M bandsaw outfeed tray finished"><br/>
+
+It is definitely not show quality automotive, but good enough for a industrial bandsaw! It ain't gonna break! Stay tuned for the DRO!
+
+Thanks for looking! <a href="https://cad.onshape.com/documents/0a3c7bbc668118fd755ab87e/w/4a038c6919d2e92fcc1d24bc/e/603e9c5db290b9b7e7c22192" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a> If you need some help on your project, let us know.
