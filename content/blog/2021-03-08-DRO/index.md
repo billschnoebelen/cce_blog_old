@@ -7,9 +7,9 @@ featuredImage: "./preview.jpg"
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/initial_layout.jpg" alt="Initial layout of DRO mount for Doall C-916M bandsaw."><br/>
 
-These were the original layouts I was trying before deciding to build a new outfeed tray. I will start to layout physical items and get a picture in my head of how it will work. I will clamp scap pieces together and make pieces out of cardboard. In this particular instance, nothing worked. It all looked too cheesy. So I started over.
+This was one of original brainstorm layouts I was trying before deciding to build a new outfeed tray. During these brainstorms, I will clamp scrap pieces together and make pieces out of cardboard. This is all to get a good mental picture of how things will work. In this particular instance, nothing worked. It all looked too cheesy. So I started over.
 
-My main issue was I was trying to apply precision to a non-precision slide. The original stop used a pipe and a screw clamp. It worked no matter how many chips or how much coolant got on it. This lives in a very dirty spot so wanted to keep the same robustness. I wanted to tighten it up some and make it easy to connect to the DRO.
+My main issue was I was trying to apply precision to a non-precision slide. The original stop used a pipe and a screw clamp. It worked no matter how many chips or how much coolant gunk got on it. This lives in a very dirty spot so wanted to keep the same robustness. I, however, wanted to tighten it up some and make it easy to connect to the precision of the DRO.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_movement.gif" alt="Layout of DRO mount using Unitstrut for Doall C-916M bandsaw."><br/>
 
@@ -17,7 +17,7 @@ I decided to go with a piece of Unistrut for the slide mechanism. Mainly because
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_coupling_mechanism.jpg" alt="DRO mount coupling mechanism for Doall C-916M bandsaw."><br/>
 
-I played around with springs for the coupling mechanism between stop and DRO to eliminate backlash. These were too complicated. I ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. This takes up any waviness of the Unistrut. The delrin applies enough pre-load to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
+I played around with springs for the coupling mechanism between stop and DRO to eliminate backlash. These were too complicated. I ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. This keeps any inherent waviness of the Unistrut from putting unwanted forces on the DRO. The delrin applies enough pre-load to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/cover_endcaps.jpg" alt="DRO mount cover end caps."><br/>
 
