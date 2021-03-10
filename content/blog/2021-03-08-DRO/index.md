@@ -25,13 +25,13 @@ I played around with springs for the coupling mechanism to eliminate backlash, b
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/tube_end_caps_after_welding.jpg" alt="DRO mount cover end caps after welding."><br/>
 
-The first thing I tried it on is the ends for the cover. I plasma cut the bottom off a tube and used that for ends. Getting measurements this close took a bit of skill. You would have to understand datums and keep the stop against those datums. It you didn't it end up +/-.06.
+The first thing I tried it on is the ends for the cover. I plasma cut the bottom off a tube and used that for end caps. Getting measurements this close took a bit of skill. You would have to understand datums and keep the stop against those datums. It you didn't, it could end up +/-.04".
 
-The issue was the Unistrut was way out of wack. I could not hold a tight tolerance between the insides of the channel. Everything would just bind. It may have helped if my piece of Unitstrut was not physically abused in is former life. I was probably cause the abuse so I can't complain.
+The issue was the Unistrut was way out of wack. The inside of the channel was not a tight tolerance. If it was, everything would just bind. It may have helped if my piece of Unitstrut was not physically abused in is former life. I was probably cause the abuse so I can't complain.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/delrin_block.png" alt="Added a line to line delrin slide block."><br/>
 
-I just added a line to line delrin block. This holds everything to one side of the rail. And problem solved!
+I just added a line to line delrin block. This drives everything to one side of the rail. And problem solved! It is very fast to measure now!!
 
 Thanks for looking! <a href="https://cad.onshape.com/documents/0a3c7bbc668118fd755ab87e/w/4a038c6919d2e92fcc1d24bc/e/603e9c5db290b9b7e7c22192" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a>
 
