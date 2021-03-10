@@ -1,6 +1,6 @@
 ---
 title: Doall C-916M Ebay DRO
-date: "2021-03-01T08:04:03.284Z"
+date: "2021-03-08T08:04:03.284Z"
 description: "I bought a $35 DRO for my saw off Ebay. This continues my install..."
 featuredImage: "./preview.jpg"
 ---
@@ -13,11 +13,25 @@ My main issue was I was trying to apply precision to a non-precision slide. The 
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_movement.gif" alt="Layout of DRO mount using Unitstrut for Doall C-916M bandsaw."><br/>
 
-I decided to go with a piece of Unistrut for the slide mechanism.
+I decided to go with a piece of Unistrut for the slide mechanism. Mainly because I had a small section of Unitstrut, but it also gives me a nice base if I want to change.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_coupling_mechanism.jpg" alt="DRO mount coupling mechanism for Doall C-916M bandsaw."><br/>
 
 I played around with springs for the coupling mechanism to eliminate backlash, but ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. The delrin applies enough pre-load to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/cover_endcaps.jpg" alt="DRO mount cover end caps."><br/>
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/tube_end_caps_before_welding.jpg" alt="DRO mount cover end caps setup before welding."><br/>
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/tube_end_caps_after_welding.jpg" alt="DRO mount cover end caps after welding."><br/>
+
+The first thing I tried it on is the ends for the cover. I plasma cut the bottom off a tube and used that for ends. Getting measurements this close took a bit of skill. You would have to understand datums and keep the stop against those datums. It you didn't it end up +/-.06.
+
+The issue was the Unistrut was way out of wack. I could not hold a tight tolerance between the insides of the channel. Everything would just bind. It may have helped if my piece of Unitstrut was not physically abused in is former life. I was probably cause the abuse so I can't complain.
+
+<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/delrin_block.png" alt="Added a line to line delrin slide block."><br/>
+
+I just added a line to line delrin block. This holds everything to one side of the rail. And problem solved!
 
 Thanks for looking! <a href="https://cad.onshape.com/documents/0a3c7bbc668118fd755ab87e/w/4a038c6919d2e92fcc1d24bc/e/603e9c5db290b9b7e7c22192" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a>
 
