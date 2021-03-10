@@ -7,9 +7,9 @@ featuredImage: "./preview.jpg"
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/initial_layout.jpg" alt="Initial layout of DRO mount for Doall C-916M bandsaw."><br/>
 
-This was one of original brainstorm layouts I was trying before deciding to build a new outfeed tray. During these brainstorms, I will clamp scrap pieces together and make pieces out of cardboard. This is all to get a good mental picture of how things will work. In this particular instance, nothing worked. It all looked too cheesy. So I started over.
+This was one of original brainstorm layouts I was trying before deciding to build a new <a href="https://cce-blog.netlify.app/2021-03-01-outfeed-tray/" target="_blank" rel="noopener noreferrer">outfeed tray</a>. During these brainstorms, I will clamp scrap pieces together and make pieces out of cardboard. This is all to get a good mental picture of how things will work. In this particular instance, nothing worked. It all looked too cheesy. So I started over.
 
-My main issue was I was trying to apply precision to a non-precision slide. The original stop used a pipe and a screw clamp. It worked no matter how many chips or how much coolant gunk got on it. This lives in a very dirty spot so wanted to keep the same robustness. I, however, wanted to tighten it up some and make it easy to connect to the precision of the DRO.
+My main issue was trying to apply precision to a non-precision slide. The original stop used a pipe and a screw clamp. It worked no matter how many chips or how much coolant gunk got on it. This lives in a very dirty spot so wanted to keep the same robustness. I, however, wanted to tighten it up some and make it easy to connect to the precision of the DRO.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_movement.gif" alt="Layout of DRO mount using Unitstrut for Doall C-916M bandsaw."><br/>
 
@@ -33,7 +33,9 @@ The issue was that the Unistrut channel was way out of wack. The inside of the c
 
 I just added a line to line delrin block. This drives everything to one side of the rail. And problem solved! It is very fast to measure now!!
 
-<img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/preview.jpg" alt="Final DRO for Doall C-916M bandsaw."><br/>
+<iframe width="420" height="315"
+src="https://youtube.com/embed/JBwZ4j5Cy28?controls=0">
+</iframe>
 
 Thanks for looking! <a href="https://cad.onshape.com/documents/0a3c7bbc668118fd755ab87e/w/4a038c6919d2e92fcc1d24bc/e/603e9c5db290b9b7e7c22192" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a>
 
