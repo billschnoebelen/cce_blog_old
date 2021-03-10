@@ -17,7 +17,7 @@ I decided to go with a piece of Unistrut for the slide mechanism. Mainly because
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/DRO_coupling_mechanism.jpg" alt="DRO mount coupling mechanism for Doall C-916M bandsaw."><br/>
 
-I played around with springs for the coupling mechanism between stop and DRO to eliminate backlash. These were too complicated. I ended up with a press fit between a stainless steel shaft and a delrin fork. This allows the pin to slide in and out, and up and down. This keeps any inherent waviness of the Unistrut from putting unwanted forces on the DRO. The delrin applies enough pre-load to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
+I played around with springs for the coupling mechanism between the stop slider and DRO to eliminate backlash. These were complicated. I ended up with a press fit between a stainless steel shaft and a delrin fork. This provides a nice bearing surface for the pin to slide in and out, and up and down. This keeps any inherent waviness of the Unistrut from putting unwanted forces on the DRO. The delrin fork applies enough pre-load squeeze to eliminate any backlash. If I did this again, I would just use a dowel pin for the shaft.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-08-dro/cover_endcaps.jpg" alt="DRO mount cover end caps."><br/>
 
