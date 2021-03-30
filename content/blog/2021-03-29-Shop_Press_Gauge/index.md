@@ -1,5 +1,5 @@
 ---
-title: Harbor Freight Shop Press Ebay Pressure Gauge
+title: Harbor Freight 20T Shop Press Ebay Pressure Gauge
 date: "2021-03-29T08:04:03.284Z"
 description: "Adding a Pressure Gauge to a shop press."
 featuredImage: "./preview.jpg"
