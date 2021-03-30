@@ -44,15 +44,15 @@ I cleaned everything up. I removed many burrs I made and existing burrs. The gou
 The numbers:
 
     Radius = 56mm/25.4/2 = 1.102in
-    Area = 3.14\*1.102in^2 = 3.82in^2
+    Area = 3.14 * 1.102in^2 = 3.82in^2
 
     Theoretical
-    Force = 20T \* 2000lbs/T = 40,000lbs
+    Force = 20T * 2000lbs/T = 40,000lbs
     PSI = 40,000lbs/3.82in^2 = 10,471lbs/in^2
 
     Actual (pressure relief trips between 7-8 kpsi)
-    Force = 8000lbs/in^2 \* 3.82in^2 = 30,560
-    30,560/2000 = 15.28T`
+    Force = 8000lbs/in^2 * 3.82in^2 = 30,560
+    30,560lbs/2000lbs/T = 15.28T
 
 A 20 Ton bottle jack will not produce 20 Ton of force. There is a built in safety factor. It is just as well. I am not 100% sure the press would hold 20 Tons.
 
