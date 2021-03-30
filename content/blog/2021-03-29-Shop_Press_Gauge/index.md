@@ -37,7 +37,7 @@ Harbor Freight gave me new seals in a rebuild kit when I bought the jack so I in
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-29-Shop_Press_Gauge/8-cleaned_up.jpg" alt="Cleaned up prior to assembly."><br/>
 
-I cleaned everything up. I removed many burrs. The scratches from the pipe wrench are on the outside and won't hurt anything.
+I cleaned everything up. I removed many burrs I made and existing burrs. The gouges from the pipe wrench are on the outside and won't hurt anything.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-03-29-Shop_Press_Gauge/9-calcs.jpg" alt="Cleaned up prior to assembly."><br/>
 
@@ -54,7 +54,7 @@ The numbers:
     Force = 8000lbs/in^2 \* 3.82in^2 = 30,560
     30,560/2000 = 15.28T`
 
-A 20 Ton bottle jack will not produce 20 Ton of force. There is a built in safety factor.
+A 20 Ton bottle jack will not produce 20 Ton of force. There is a built in safety factor. It is just as well. I am not 100% sure the press would hold 20 Tons.
 
 Thanks for looking! <a href="https://cad.onshape.com/documents/eb79c6db72c6a3027f37b65d/w/777410d1b37eb2d133869cc7/e/dc860df1d2a0c567fa235e57" target="_blank" rel="noopener noreferrer">There are more pics, CAD, and CAM here...</a>
 
