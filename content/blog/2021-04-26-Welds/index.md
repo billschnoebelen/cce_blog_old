@@ -17,7 +17,7 @@ So how bad were the welds? Usually I just stick them in a vise and hammer them u
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-04-26-Welds/3-broken_weld.jpg" alt="Broken weld."><br/>
 
-This may not look like the same sample since I stick weld a "B" and a bunch of other welds on it. I did not think about breaking it until afterwards.
+This may not look like the same sample since I used it for stick welding practice. I did not think about breaking it until afterwards.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-04-26-Welds/4-stick_welded_b.jpg" alt="Stick welding."><br/>
 
@@ -31,7 +31,7 @@ You can see the issue with the weld in the closeups. About a third of the length
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-04-26-Welds/7-cold_weld_otherside.jpg" alt="Cold weld other side magnified."><br/>
 
-With effort, I probably could have made the machine work. I would most likely had to preheat the parts. There were 128 welds so I just borrowed the right welder for the job.
+With effort, I probably could have made the machine work. I would most likely have had to preheat the parts. There were 128 welds so I just borrowed the right welder for the job.
 
 <img class="blog-img" src="https://circuit-case-blog.s3-us-west-1.amazonaws.com/2021-04-26-Welds/8-good_weld.jpg" alt="Good Weld."><br/>
 
